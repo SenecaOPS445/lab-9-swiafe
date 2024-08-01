@@ -44,3 +44,6 @@
 
 [ops445]
 jkwok	ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7850
+vmlab   ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7011
+myvm    ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7012
+myvm    ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7013
